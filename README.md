@@ -2,8 +2,8 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/NeoRazorX/facturascripts/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/NeoRazorX/facturascripts/?branch=master)
 [![Build Status](https://travis-ci.org/NeoRazorX/facturascripts.svg?branch=master)](https://travis-ci.org/NeoRazorX/facturascripts)
 
-# FacturaScripts
-Open source ERP software. Built on modern PHP and bootstrap 4. Easy and powerful.
+# SISTEMA DE FACTURACIÓN Y CONTABILIDAD SERVIECONOMIA BUSINESSS
+Open source ERP software. Built on modern PHP and bootstrap 4. Easy and powerful#
 
 ## Install
 Clone and deploy with composer and npm (composer is for PHP dependencies, and npm for JavaScript and CSS):
