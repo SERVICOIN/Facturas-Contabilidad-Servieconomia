@@ -15,10 +15,8 @@ npm install
 ```
 
 ## Documentation
-https://facturascripts.com/doc
-
+https://PRONTO+INFORMACION
 ## Issues / Feedback
-https://facturascripts.com/contacto
-
+https://PRONTO+INFORMACION
 ## Translations
 https://facturascripts.com/traducciones
