@@ -19,4 +19,4 @@ https://PRONTO+INFORMACION
 ## Issues / Feedback
 https://PRONTO+INFORMACION
 ## Translations
-https://facturascripts.com/traducciones
+https://PRONTO+INFORMACION
